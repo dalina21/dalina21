@@ -13,10 +13,7 @@
 
 ## 🙋‍♀️ Sobre mim
 
-Sou estudante de **Ciência da Computação** (6º período) na Faculdade Católica da Paraíba, com foco em **desenvolvimento de software**. Gosto de construir sistemas bem estruturados, aplicando boas práticas, padrões de projeto e arquiteturas sólidas.
-
-- 🌱 Sempre aprendendo e evoluindo
-- 📍 Ceará, Brasil
+Sou estudante de **Ciência da Computação** na Faculdade Católica da Paraíba, atualmente no 6º período, tenho grande apreço pela área de **desenvolvimento de software**. Gosto de construir sistemas bem estruturados, sempre buscando aplicar boas práticas.
 
 ---
 
