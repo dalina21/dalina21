@@ -1,4 +1,6 @@
-<h1 align="center">Olá, tudo bem? Me chamo Dalina Dantas 👩‍💻</h1>
+<h1 align="center">👩‍💻 Olá, tudo bem? Me chamo Dalina Dantas</h1>
+
+Sou estudante de Ciência da Computação na Faculdade Católica da Paraíba, atualmente no 6º período, tenho grande apreço pela área de desenvolvimento de software. Gosto de construir sistemas bem estruturados e estou sempre buscando aplicar boas práticas no desenvolvimento, buscando aprimorar continuamente minhas habilidades.
 
 <p align="center">
   <a href="https://linkedin.com/in/dalina-dantas-252242354/" target="_blank">
@@ -8,12 +10,6 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🙋‍♀️ Sobre mim
-
-Sou estudante de **Ciência da Computação** na Faculdade Católica da Paraíba, atualmente no 6º período, tenho grande apreço pela área de **desenvolvimento de software**. Gosto de construir sistemas bem estruturados, sempre buscando aplicar boas práticas.
 
 ---
 
